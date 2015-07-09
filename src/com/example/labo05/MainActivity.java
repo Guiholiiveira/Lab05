@@ -1,3 +1,9 @@
+
+/***
+* @author Guilherme Oliveira
+*/
+
+
 package com.example.labo05;
 
 import android.app.Activity;
